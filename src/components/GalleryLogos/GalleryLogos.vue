@@ -41,7 +41,7 @@ export default {
 <style lang="scss" scoped>
 .gallery-logos {
     margin: var(--unit-gutter) auto;
-    max-width: 1024px;
+    max-width: 650px;
     text-align: center;
 
     .title {
